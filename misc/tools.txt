@@ -1,0 +1,10 @@
+git
+stow
+jq
+tig
+zsh
+htop
+httpie
+curl
+gcc
+the_silver_searcher
