@@ -1,0 +1,19 @@
+{
+    "window.zoomLevel": 0,
+    "go.formatTool": "goimports",
+    "go.delveConfig": {
+        "dlvLoadConfig": {
+            "followPointers": true,
+            "maxVariableRecurse": 1,
+            "maxStringLen": 64,
+            "maxStructFields": -1
+        },
+        "apiVersion": 2,
+        "showGlobalVariables": true
+    },
+    "window.titleBarStyle": "custom",
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "editor.formatOnSave": true,
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0 }",
+    "C_Cpp.clang_format_path": "/usr/bin/clang-format"
+}
