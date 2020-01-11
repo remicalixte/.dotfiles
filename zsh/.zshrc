@@ -98,3 +98,5 @@ source $HOME/.cargo/env
 
 export GOPATH=$HOME/go
 export PATH=$GOPATH/bin:$PATH
+export PATH="$HOME/.cargo/bin:$PATH"
+
