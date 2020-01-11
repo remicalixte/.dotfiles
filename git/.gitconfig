@@ -1,0 +1,6 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Rémi Calixte
+	email = remicalixte.rmc@gmail.com
+[core]
+	excludesfile = ~/.gitignore
