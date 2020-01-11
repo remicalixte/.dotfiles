@@ -1,0 +1,15 @@
+[submodule "zsh/oh-my-zsh-custom/plugins/zsh-syntax-highlighting"]
+	path = zsh/.oh-my-zsh-custom/plugins/zsh-syntax-highlighting
+	url = git@github.com:zsh-users/zsh-syntax-highlighting.git
+[submodule "zsh/oh-my-zsh-custom/themes/oh-my-via"]
+	path = zsh/.oh-my-zsh-custom/themes/oh-my-via
+	url = git@github.com:badouralix/oh-my-via.git
+[submodule "zsh/.oh-my-zsh"]
+	path = zsh/.oh-my-zsh
+	url = git@github.com:ohmyzsh/ohmyzsh.git
+[submodule "zsh/.oh-my-zsh-custom/plugins/zsh-syntax-highlighting"]
+	path = zsh/.oh-my-zsh-custom/plugins/zsh-syntax-highlighting
+	url = git@github.com:zsh-users/zsh-syntax-highlighting.git
+[submodule "zsh/.oh-my-zsh-custom/themes/oh-my-via"]
+	path = zsh/.oh-my-zsh-custom/themes/oh-my-via
+	url = git@github.com:badouralix/oh-my-via.git
