@@ -100,3 +100,5 @@ export GOPATH=$HOME/go
 export PATH=$GOPATH/bin:$PATH
 export PATH="$HOME/.cargo/bin:$PATH"
 
+# opam configuration
+test -r /home/remi/.opam/opam-init/init.zsh && . /home/remi/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true

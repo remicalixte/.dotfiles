@@ -1,6 +1,5 @@
 {
     "window.zoomLevel": 0,
-    "go.formatTool": "goimports",
     "go.delveConfig": {
         "dlvLoadConfig": {
             "followPointers": true,
@@ -14,6 +13,8 @@
     "window.titleBarStyle": "custom",
     "C_Cpp.default.intelliSenseMode": "gcc-x64",
     "editor.formatOnSave": true,
-    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0 }",
-    "C_Cpp.clang_format_path": "/usr/bin/clang-format"
+    "C_Cpp.clang_format_path": "/usr/bin/clang-format",
+    "C_Cpp.clang_format_style": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0 }",
+    "go.autocompleteUnimportedPackages": true,
+    "go.useLanguageServer": true,
 }
