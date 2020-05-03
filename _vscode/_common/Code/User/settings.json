@@ -17,4 +17,5 @@
     "C_Cpp.clang_format_style": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0 }",
     "go.autocompleteUnimportedPackages": true,
     "go.useLanguageServer": true,
+    "explorer.confirmDelete": false,
 }
