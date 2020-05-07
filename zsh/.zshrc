@@ -69,7 +69,7 @@ ZSH_THEME="oh-my-via/via"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git golang fzf zsh-syntax-highlighting)
+plugins=(git golang fzf zsh-syntax-highlighting kubectl)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -79,7 +79,7 @@ source $ZSH/oh-my-zsh.sh
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
-
+export LC_ALL=en_US.UTF-8
 # Preferred editor for local and remote sessions
 export EDITOR='vim'
 
@@ -94,7 +94,7 @@ export EDITOR='vim'
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-source $HOME/.cargo/env
+#source $HOME/.cargo/env
 
 export GOPATH=$HOME/go
 export PATH=$GOPATH/bin:$PATH
